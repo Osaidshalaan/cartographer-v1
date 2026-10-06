@@ -1,0 +1,3 @@
+# cartographer v2 uses only the Python stdlib.
+# Runtime dependency: curl >= 8.0 (system binary).
+# Python >= 3.10.
